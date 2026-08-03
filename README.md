@@ -1,5 +1,5 @@
 # 💫 About Me:
-UI/UX and Frontend Developer specializing in Angular, TypeScript, React, React Native, javascript and modern UX design, with 3+ years of experience building responsive, enterprise-grade web applications.
+Frontend Developer specializing in Angular, TypeScript, and modern UX design, with 3+ years of experience building responsive, enterprise-grade web applications. I focus on translating complex user workflows into clean, intuitive interfaces - balancing performance, usability, and design consistency across desktop and mobile. Experienced working within Agile/Scrum teams and cloud-based delivery pipelines (Docker, Azure DevOps), with a strong interest in exploring new frontend technologies and UX patterns to solve real user problems. Oracle Certified Java Programmer (OCJP), with additional coursework in React/Redux and Angular. Always looking to build software that's not just functional, but genuinely easy to use.
 
 
 ## 🌐 Socials:
