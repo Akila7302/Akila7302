@@ -1,8 +1,7 @@
-<!-- Banner artwork: assets/banner.png (1920×560). Replace that file to swap the header. -->
+<!-- Banner artwork: assets/banner.gif. It types the tech stack along the bottom. -->
 
 <div align="center">
-<img src="assets/banner.png" alt="Akila Bandara, UI/UX and Frontend Developer" width="100%" />
-<img width="100%" alt="Tech stack typing through Angular, TypeScript, React, JavaScript, RxJS, Node.js, Docker, and Figma" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2200&amp;pause=700&amp;color=88C0D0&amp;background=2E3440&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=48&amp;lines=Angular;TypeScript;React;JavaScript;RxJS;Node.js;Docker;Figma" />
+<img src="assets/banner.gif" alt="Akila Bandara, UI/UX and Frontend Developer. Tech stack types through Angular, TypeScript, React, JavaScript, RxJS, Node.js, Docker, and Figma." width="100%" />
 <br /><br />
 <a href="https://www.behance.net/akila9bandara"><img alt="Behance" src="https://img.shields.io/badge/Behance-2E3440?style=flat-square&amp;logo=behance&amp;logoColor=88C0D0" /></a>
 &nbsp;&nbsp;
@@ -27,12 +26,27 @@
 
 <div align="center">
 <h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,reactivex&amp;theme=dark&amp;perline=8" alt="Angular, React, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, RxJS" />
+<img title="Angular" alt="Angular" width="48" height="48" src="https://skillicons.dev/icons?i=angular&amp;theme=dark" />
+<img title="React" alt="React" width="48" height="48" src="https://skillicons.dev/icons?i=react&amp;theme=dark" />
+<img title="TypeScript" alt="TypeScript" width="48" height="48" src="https://skillicons.dev/icons?i=ts&amp;theme=dark" />
+<img title="JavaScript" alt="JavaScript" width="48" height="48" src="https://skillicons.dev/icons?i=js&amp;theme=dark" />
+<img title="HTML5" alt="HTML5" width="48" height="48" src="https://skillicons.dev/icons?i=html&amp;theme=dark" />
+<img title="CSS3" alt="CSS3" width="48" height="48" src="https://skillicons.dev/icons?i=css&amp;theme=dark" />
+<img title="Bootstrap" alt="Bootstrap" width="48" height="48" src="https://skillicons.dev/icons?i=bootstrap&amp;theme=dark" />
+<img title="RxJS" alt="RxJS" width="48" height="48" src="https://skillicons.dev/icons?i=reactivex&amp;theme=dark" />
 <h3>Backend &amp; Cloud</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,azure,firebase,heroku,docker&amp;theme=dark&amp;perline=6" alt="Node.js, Express, Azure, Firebase, Heroku, Docker" />
+<img title="Node.js" alt="Node.js" width="48" height="48" src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" />
+<img title="Express" alt="Express" width="48" height="48" src="https://skillicons.dev/icons?i=express&amp;theme=dark" />
+<img title="Azure" alt="Azure" width="48" height="48" src="https://skillicons.dev/icons?i=azure&amp;theme=dark" />
+<img title="Firebase" alt="Firebase" width="48" height="48" src="https://skillicons.dev/icons?i=firebase&amp;theme=dark" />
+<img title="Heroku" alt="Heroku" width="48" height="48" src="https://skillicons.dev/icons?i=heroku&amp;theme=dark" />
+<img title="Docker" alt="Docker" width="48" height="48" src="https://skillicons.dev/icons?i=docker&amp;theme=dark" />
 <h3>Design &amp; Tooling</h3>
-<img src="https://skillicons.dev/icons?i=figma,jest,git,github&amp;theme=dark&amp;perline=4" alt="Figma, Jest, Git, GitHub" />
-<img height="48" width="48" alt="Canva" src="https://skills.syvixor.com/api/icons?i=canva&amp;theme=dark" />
+<img title="Figma" alt="Figma" width="48" height="48" src="https://skillicons.dev/icons?i=figma&amp;theme=dark" />
+<img title="Canva" alt="Canva" width="48" height="48" src="https://skills.syvixor.com/api/icons?i=canva&amp;theme=dark" />
+<img title="Jest" alt="Jest" width="48" height="48" src="https://skillicons.dev/icons?i=jest&amp;theme=dark" />
+<img title="Git" alt="Git" width="48" height="48" src="https://skillicons.dev/icons?i=git&amp;theme=dark" />
+<img title="GitHub" alt="GitHub" width="48" height="48" src="https://skillicons.dev/icons?i=github&amp;theme=dark" />
 </div>
 
 ## GitHub
