@@ -12,38 +12,7 @@
 
 ## About Me
 
-```yaml
-# about.yaml
-
-name: Akila Bandara
-role: "UI/UX & Frontend Developer"
-education: "BSc (Hons) Information Technology"
-experience: "3+ years"
-
-focus:
-  stack:
-    - Angular
-    - TypeScript
-    - modern UX
-  output: "responsive, enterprise-grade web applications"
-
-approach:
-  - translate complex user workflows into clean, intuitive interfaces
-  - balance performance, usability, and design consistency
-  - keep that consistency across desktop and mobile
-
-delivery:
-  process: "Agile / Scrum"
-  pipeline:
-    - Docker
-    - Azure DevOps
-
-exploring:
-  - new frontend technologies
-  - UX patterns that solve real user problems
-
-intent: "Build software that is functional, and genuinely easy to use."
-```
+![about.yaml for Akila Bandara, UI/UX and Frontend Developer. BSc (Hons) Information Technology, 3+ years. Focus: Angular, TypeScript, and modern UX, building responsive enterprise-grade web applications. Balances performance, usability, and design consistency across desktop and mobile. Delivers with Agile/Scrum, Docker, and Azure DevOps.](assets/about.png)
 
 ## Tech Stack
 
