@@ -2,6 +2,7 @@
 
 <div align="center">
 <img src="assets/banner.png" alt="Akila Bandara, UI/UX and Frontend Developer" width="100%" />
+<img width="100%" alt="Tech stack typing through Angular, TypeScript, React, JavaScript, RxJS, Node.js, Docker, and Figma" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2200&amp;pause=700&amp;color=88C0D0&amp;background=2E3440&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=48&amp;lines=Angular;TypeScript;React;JavaScript;RxJS;Node.js;Docker;Figma" />
 <br /><br />
 <a href="https://www.behance.net/akila9bandara"><img alt="Behance" src="https://img.shields.io/badge/Behance-2E3440?style=flat-square&amp;logo=behance&amp;logoColor=88C0D0" /></a>
 &nbsp;&nbsp;
@@ -12,7 +13,15 @@
 
 ## About Me
 
-![about.yaml for Akila Bandara, UI/UX and Frontend Developer. BSc (Hons) Information Technology, 3+ years. Focus: Angular, TypeScript, and modern UX, building responsive enterprise-grade web applications. Balances performance, usability, and design consistency across desktop and mobile. Delivers with Agile/Scrum, Docker, and Azure DevOps.](assets/about.png)
+<p><strong>UI/UX &amp; Frontend Developer</strong> · BSc (Hons) Information Technology · 3+ years</p>
+
+<p>I design and build responsive, enterprise-grade interfaces. Complex workflows become clear on desktop and mobile, with the same care for performance, usability, and visual consistency.</p>
+
+<ul>
+  <li><strong>Focus</strong> — Angular, TypeScript, and modern UX</li>
+  <li><strong>Delivery</strong> — Agile / Scrum, Docker, and Azure DevOps</li>
+  <li><strong>Exploring</strong> — frontend technologies and UX patterns that solve real user problems</li>
+</ul>
 
 ## Tech Stack
 
